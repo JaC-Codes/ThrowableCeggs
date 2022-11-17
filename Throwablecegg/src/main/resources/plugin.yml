@@ -1,0 +1,8 @@
+name: ThrowableCeggs
+version: 0.1
+main: me.koz.throwablecegg.Throwables
+api-version: 1.13
+commands:
+  throwables:
+    description: Give/Receive throwable ceggs
+    aliases: [ceggs]
